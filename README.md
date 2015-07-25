@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Jekyll-Bootstrap-3
 
 Easily publish Bootstrap 3 powered Jekyll sites.  
@@ -36,7 +35,3 @@ Quickly install and use lovely themes with Jekyll Bootstrap 3. Visit [theme gall
 
 [![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/dbtek/jekyll-bootstrap-3/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
 
-=======
-# wangyinsheng.github.io
-wangyinsheng's blog
->>>>>>> 9adf49839830ecfd692ab47caff5d6b031b56aef
