@@ -1,4 +1,4 @@
-{%include JB/setup %}
+{% include JB/setup %}
 
 ##安装Lua
 
