@@ -1,3 +1,5 @@
+{%include JB/setup %}
+
 ##安装Lua
 
 ###下载Lua源码
