@@ -1,12 +1,8 @@
 ---
 layout: page
-title: Hello World!
-tagline: Supporting tagline
+title: 安装Lua
 ---
 {% include JB/setup %}
-
-
-##安装Lua
 
 ###下载Lua源码
         wget http://www.lua.org/ftp/lua-5.3.2.tar.gz
@@ -25,4 +21,3 @@ tagline: Supporting tagline
         silver@ubuntu:~$ lua
         Lua 5.3.2  Copyright (C) 1994-2015 Lua.org, PUC-Rio
         >
-        
